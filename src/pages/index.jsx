@@ -17,7 +17,6 @@ export default function Home() {
       document.body.style.backgroundColor  =""
     }
 
-    
   },[])
   return (
     <div className={styles.container}>
